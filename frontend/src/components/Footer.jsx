@@ -10,7 +10,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            Dreams Clothing brings you the latest in fashion with trendy, high-quality clothing for every occasion. Discover stylish collections, enjoy a seamless shopping experience, and express your unique style effortlessly. Fast shipping, exclusive deals, and hassle-free returns await you!  
+            Jaipur brings you the latest in fashion with trendy, high-quality clothing for every occasion. Discover stylish collections, enjoy a seamless shopping experience, and express your unique style effortlessly. Fast shipping, exclusive deals, and hassle-free returns await you!  
             </p>
         </div>
 
@@ -27,8 +27,8 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
-                <li>+91 96246 34498</li>
-                <li>contact@dreamscothing.com</li>
+                <li>+91 98765 43210</li>
+                <li>contact@jaipur.com</li>
             </ul>
         </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ dreamscothing.com - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2024@ jaipur.com - All Right Reserved.</p>
         </div>
 
     </div>
